@@ -80,3 +80,4 @@ Exercícios feitos no curso de Python do CursoEmVideo.com
 #077 - Contando vogais em tupla
 #078 - Maior e Menor valores na lista
 #079 - Valores únicos em uma lista
+#080 - Lista ordenada sem repetições
