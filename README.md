@@ -8,7 +8,7 @@ Exercícios feitos no curso de Python do CursoEmVideo.com
 #005 - Antecessor e Sucessor
 #006 - Dobro, Triplo, Raíz Quadrada
 #007 - Média Aritmética
-#008 - Conversor de Medidos
+#008 - Conversor de Medidas
 #009 - Tabuada
 #010 - Conversor de Moedas
 #011 - Pintando Parece
