@@ -82,3 +82,5 @@ Exercícios feitos no curso de Python do CursoEmVideo.com
 #079 - Valores únicos em uma lista
 #080 - Lista ordenada sem repetições
 #081 - Extraindo dados de uma lista
+#082 - Dividindo valores em várias listas
+#083 - Validando expressões matemáticas
