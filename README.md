@@ -84,3 +84,4 @@ Exercícios feitos no curso de Python do CursoEmVideo.com
 #081 - Extraindo dados de uma lista
 #082 - Dividindo valores em várias listas
 #083 - Validando expressões matemáticas
+#085 - Listas com pares e ímpares
