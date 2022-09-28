@@ -84,5 +84,37 @@ Exercícios feitos no curso de Python do CursoEmVideo.com
 #081 - Extraindo dados de uma lista
 #082 - Dividindo valores em várias listas
 #083 - Validando expressões matemáticas
+#084 - Lista composta e análise de dados
 #085 - Listas com pares e ímpares
-test
+#086 - Matriz
+#087 - Mais sobre Matriz
+#088 - Palpites para a Mega Sena
+#089 - Boletim com listas compostas
+#090 - Dicionário
+#091 - Jogo de Dados
+#092 - Cadastro de Trabalhador
+#093 - Cadastro de Jogador
+#094 - Unindo dicionários e listas
+#095 - Aprimorando os dicionários
+#096 - Função que calcula área
+#097 - Um print especial
+#098 - Função de Contador
+#099 - Função que descobre o maior
+#100 - Funcões para sortear e somar
+#101 - Funções para votação
+#102 - Funcões para Fatorial
+#103 - Ficha do Jogador
+#104 - Validando entrada de dados
+#105 - Analisando e gerando dicionários
+#106 - Sistema interativo de ajuda
+#107 - Exercitando módulos
+#108 - Formatando Moedas
+#109 - Formatando Moedas
+#110 - Reduzindo ainda mais seu programa
+#111 - Transformando módulos em pacotes
+#112 - Entrada de dados monetários
+#113 - Funções aprofundadas
+#114 - Site está acessível?
+#115a - Criando menu
+#115b - Arquivos
+#115c - Finalizando o projeto
