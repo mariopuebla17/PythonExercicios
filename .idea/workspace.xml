@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ead798-8484-4f24-8534-87410e47966b" name="Default" comment="init">
-      <change afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonExercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonExercicios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex029.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664386679609</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init">
+      <created>1664411994452</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664411994452</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
